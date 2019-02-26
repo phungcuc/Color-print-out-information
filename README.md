@@ -8,4 +8,7 @@ Performance:
 Print out detail in different colors to raise awareness 
  
 Notice: 
-These is no attached file because of compay disclosure policy. 
+These is no attached file because of compay disclosure policy
+
+Recommand:
+This code works well in jupyter notebook
